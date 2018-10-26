@@ -58,13 +58,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Testlio** (March 2015)    
 *Automation Test Analyst(Home Office - London)*  
 Started as manual tester and later moved to automation. Working in different projects since then, including CBS Entertainment mobile app (USA TV broadcaster), Verizon Concierge administration tool (USA mobile provider branch), Moni (Mobile app for money transfer), DataRobot (Data analysis web tool)
-Summary of responsibilities and tasks:
--Web and native mobile app testing (scripted and exploratory)
--Planning and writing test cases
--Report issues on Testlio's internal bug tracking tool
--Provide improvements suggestions related to features and user experience
--TCP dump analysis as part of some test cases verifications
--Automation of test cases using Python (Behave and Unittest), Selenium WebDriver, Appium, UIAutomator, iOS Simulator
+*Summary of responsibilities and tasks:*
+- Web and native mobile app testing (scripted and exploratory)
+- Planning and writing test cases
+- Report issues on Testlio's internal bug tracking tool
+- Provide improvements suggestions related to features and user experience
+- TCP dump analysis as part of some test cases verifications
+- Automation of test cases using Python (Behave and Unittest), Selenium WebDriver, Appium, UIAutomator, iOS Simulator
 
 
 **Company Name** (start_date to end_date)   
