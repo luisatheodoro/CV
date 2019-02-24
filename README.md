@@ -1,7 +1,5 @@
 ## Luisa Paoliello
 
-### [ About Me ](#About Me) | [ Projects ](#Projects) |  [ Skills ](#Skills) |  [ Education ](#Education) | [ Experience ](#Experience) | [ Interests ](#Interests)
-
 ## About Me
 I am a self-taught Python Automation Tester, for the past 4 years, I've been working with clients who want to automatize their tests and improve their speed to fix bugs and release their app.
 In Dec 2011, I graduated in Advertising and Marketing, after finishing university I decided I wanted to pursue the digital path and dedicated time studying SEO and Digital Marketing.
@@ -10,6 +8,8 @@ I am always driven by a need to learn and see new things, so in 2012 I moved fro
 I used all the wonderful free content the internet can provide and managed to get into the IT world as a software manual tester, then I progressed to a Python automation tester, for that I had to learn Python quickly.
 I loved working with testing automation but I also love new challenges.
 I decided to become a full stack Web Developer, but this time I did not want to do it completely alone, I decided to join this amazing code boot camp called "Makers Academy", a three month intensive Full Stack course.
+
+### [ Projects ](#Projects) |  [ Skills ](#Skills) |  [ Education ](#Education) | [ Experience ](#Experience) | [ Interests ](#Interests)
 
 
 ## Projects 
