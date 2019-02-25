@@ -9,7 +9,7 @@ I used all the wonderful free content the internet can provide and managed to ge
 I loved working with testing automation but I also love new challenges.
 I decided to become a full stack Web Developer, but this time I did not want to do it completely alone, I decided to join this amazing code boot camp called "Makers Academy", a three month intensive Full Stack course.
 
-### [ Projects ](#Projects) |  [ Skills ](#Skills) |  [ Education ](#Education) | [ Experience ](#Experience) | [ Interests ](#Interests)
+### [ Projects ](#Projects) |  [ Skills ](#Skills) |  [ Education ](#Education) | [ Experience ](#Experience) | [ LikedIn ](https://www.linkedin.com/in/lu%C3%ADsa-p-5b361850/)| [ Medium ](https://medium.com/@luisapaoliello)|[ Interests ](#Interests)
 
 
 ## Projects 
